@@ -1,6 +1,6 @@
 @echo OFF 
 
-set QQ=loginH-
+set QQ=loginH2-
 if not defined QQ ( goto _qq )
 
 
